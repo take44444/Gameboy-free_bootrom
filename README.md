@@ -1,5 +1,7 @@
 # GAME BOY Free Boot ROM
 
+<img src="dmg_bootrom.gif" width="200">
+
 GAME BOYエミュレータ開発者のためのオープンソースのブートROMです．
 
 このプロジェクトは[https://github.com/MiSTer-devel/Gameboy_MiSTer/](https://github.com/MiSTer-devel/Gameboy_MiSTer/)からライセンスを継承しています．
